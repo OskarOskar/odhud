@@ -1,0 +1,5 @@
+odhud v3.3.2
+Changelog:
+
+Fixed items just being named %itemname%
+Fixed "[unknown]" text on inspect and freeze panel

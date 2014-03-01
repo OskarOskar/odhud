@@ -1,0 +1,58 @@
+These are extra things for odhud, you don't need them for the HUD to function.
+
+------------------------
+How to install: No health cross
+------------------------
+1. Install whatever HUD version you want, (Days or Solomon) then open the "No health cross" folder. Inside that folder you'll see 2 folders, Days version and Solomon version. Open up one of them, depending on wich HUD you installed.
+
+2. You'll see a file named "HudPlayerHealth" copy that into
+C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom\Days or solomon version\resource\ui and say YES to overwrite/replace
+
+Then you're done :)
+------------------------
+
+
+------------------------
+How to install: Hit indicator
+------------------------
+
+I would strongly reccomend you to install Notepad++ http://notepad-plus-plus.org/ to make this 100 times easier.
+
+1. Open the "Hit indicator" folder, inside that you'll see 2 files. "HudAnimations_tf" and "hudlayout"
+
+2. Copy HudAnimations_tf and hudlayout into C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom\Days or Solomon version\scripts
+and say YES to overwtire/replace
+
+3. Open up TF2 and shoot an enemy, if the little red ring is centered, you're done. If it's not, go to step 4.
+
+4. Go to C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom\Days or Solomon version\scripts and open "hudlayout" with notepad++
+You can do this with the default Windows notepad, but Notepad++ (free) makes it 100 times easier.
+
+5. Find the section named "Hitmarker". (You can search for it by pressing control + f  in Notepad ++)
+
+6. You'll see "xpos" and "ypos" says "c-25" and "c-23" you'll need to play around with these numbers to get the hitmarker centered.
+So for example, try changing "c-23" to "c-20" go into TF2, open up the console and type "hud_reloadscheme" shoot an enemy and see if the red ring is closer to the center of the screen.
+So keep playing around with the xpos and ypos until you get it right.
+NOTE: YOU DON'T NEED TO RESTART TF2 EVERYTIME YOU CHANGE THE X OR YPOS, JUST TYPE "hud_reloadscheme" INTO CONSOLE. (Without the "" Of course..)
+------------------------
+
+
+------------------------
+How to install: No player class image
+------------------------
+1. Install whatever HUD version you want, (Days or Solomon) then open the "No player class image" folder.
+2. Copy "HudPlayerClass" into C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom\Days or solomon version\resource\ui and say YES to overwrite/replace
+
+Then you're done :)
+------------------------
+
+
+------------------------
+How to change chat position:
+------------------------
+1. Install whatever HUD version you want, (Days or Solomon) then open the "Chat box position" folder.
+2. Decide where you want the chat box, and open the corresponding folder. (So if I wanted it in the top, I'd open the folder called "Top"
+3. Copy "BaseChat" into C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom\Days or solomon version\resource\ui and say YES to overwrite/replace
+
+Then you're done :)
+------------------------
