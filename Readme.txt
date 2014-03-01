@@ -1,4 +1,3 @@
-Thanks for downloading odhud.
 odhud is a custom HUD for Team Fortress 2 made by Odrengen, odhud is some of my personal favorite HUDs mixed together in one HUD.
 
 odhud includes stuff from:
