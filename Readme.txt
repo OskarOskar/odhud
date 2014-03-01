@@ -37,5 +37,3 @@ Garm3n, for creating Garm3nHUD
 Weezill, for helping me out with some coding
 STAR, for creating a modified version of Broesel HUD, wich ODHUD was build up from
 -----------------------------------------------------------------------------
-
-http://code.google.com/p/odhud/
