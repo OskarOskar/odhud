@@ -8,13 +8,6 @@ Garm3nHUD: http://www.sdx-gaming.eu/?page_id=4097
 omp/tf2hud: https://github.com/omp/tf2hud
 
 
----
-Sections:
-1. How to install
-2. How to uninstall
-4. Credits
----
-
 -----------------------------------------------------------------------------
 
 ////////////////////////HOW TO INSTALL
